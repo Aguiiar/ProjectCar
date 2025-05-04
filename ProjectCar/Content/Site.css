@@ -1,0 +1,38 @@
+﻿
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+@media screen and (min-width: 768px) {
+    .body-content {
+        padding: 0;
+    }
+}
+
+.boxImgCars {
+    border: solid red 2px;
+}
+
+    .boxImgCars img {
+        width: 1200px;
+        height: 400px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+
+.backgroundDefault {
+    background: url("../Images/backGroundDefault.jpg") no-repeat center center;
+    background-size: cover;
+    padding: 150px 0;
+}
