@@ -2,13 +2,13 @@
 
 🔧 **Projeto completo com funcionalidades de nível profissional**
 
-📢 Estou entusiasmado em compartilhar um dos projetos que desenvolvi com foco total em qualidade, organização e boas práticas de desenvolvimento. Criei um sistema de cadastro de veículos totalmente funcional, com as principais operações de um CRUD completo — inserir, editar, excluir e listar — usando **ASP.NET Web Forms (.aspx)**, **C#**, **Bootstrap** e **Entity Framework Oracle**.
+📢 Estou entusiasmado em compartilhar um dos projetos que desenvolvi com foco total em qualidade, organização e boas práticas de desenvolvimento. Criei um sistema de cadastro de veículos totalmente funcional, com as principais operações de um CRUD completo — inserir, editar, excluir e listar — usando **ASP.NET Web Forms (.aspx)**, **C#**, **Bootstrap**, **Entity Framework** e **Oracle SQL**.
 
 ---
 
 ## ✅ Funcionalidades
 
-- **CRUD completo com Entity Framework**: Todas as operações de criação, leitura, atualização e exclusão diretamente nos bancos Oracle SQL.
+- **CRUD completo com Entity Framework**: Todas as operações de criação, leitura, atualização e exclusão diretamente no banco Oracle SQL.
 - **Cadastro, gerenciamento e relacionamento de Marcas**
 - **Atualização dinâmica da tabela com Repeater** e exibição condicional
 - **Mensagens de feedback para o usuário** (sucesso e validação)
